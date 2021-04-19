@@ -3,7 +3,7 @@
  * Plugin Name:TEST Wp Automatic Plugin Update
  * Plugin URI: 
  * Description: TESTING AND LEARNING HOW TO BUILD A PLUGIN UPDATE SYSTEM
- * Version: 1.0
+ * Version: 1.5
  * Author: josh
  * Author URI: 
  */
